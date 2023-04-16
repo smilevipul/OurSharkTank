@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/OurSharkTank/static/css/main.3531f308.css",
+    "main.js": "/OurSharkTank/static/js/main.8bcb7d5a.js",
+    "static/js/787.cda612ba.chunk.js": "/OurSharkTank/static/js/787.cda612ba.chunk.js",
+    "static/media/sharks1.JPG": "/OurSharkTank/static/media/sharks1.b42661f37080ed2b37f4.JPG",
+    "static/media/shivam.png": "/OurSharkTank/static/media/shivam.060bbac55cdefbfb0e7a.png",
+    "static/media/soheil.png": "/OurSharkTank/static/media/soheil.cf9ef879783f176edc4f.png",
+    "static/media/abhishek.png": "/OurSharkTank/static/media/abhishek.1813681a47e12becb2ad.png",
+    "static/media/signin.webp": "/OurSharkTank/static/media/signin.d7e189d392f4295e727a.webp",
+    "static/media/about1.png": "/OurSharkTank/static/media/about1.faef2ef4dd9bffa547a5.png",
+    "static/media/login.webp": "/OurSharkTank/static/media/login.0eaf211a5fde68f532e6.webp",
+    "index.html": "/OurSharkTank/index.html",
+    "main.3531f308.css.map": "/OurSharkTank/static/css/main.3531f308.css.map",
+    "main.8bcb7d5a.js.map": "/OurSharkTank/static/js/main.8bcb7d5a.js.map",
+    "787.cda612ba.chunk.js.map": "/OurSharkTank/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3531f308.css",
+    "static/js/main.8bcb7d5a.js"
+  ]
+}
