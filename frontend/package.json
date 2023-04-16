@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "homepage": "http://smilevipul.github.io/", 
+  "homepage": "http://smilevipul.github.io", 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
